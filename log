@@ -1,0 +1,99 @@
+[INFO] - The bot is online!
+[ERROR] - An invalid token was provided.
+[ERROR] - An invalid token was provided.
+[ERROR] - An invalid token was provided.
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Request failed with status code 404
+[INFO] - The bot is online!
+[ERROR] - Request failed with status code 404
+[ERROR] - Cannot find module 'discord-emotes'
+Require stack:
+- /home/container/commands/interactions/hug.js
+- /home/container/node_modules/djs-commands/CommandHandler.js
+- /home/container/node_modules/djs-commands/index.js
+- /home/container/index.js
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Invalid Form Body
+embed.image.url: Scheme "url for image" is not supported. Scheme must be one of ('http', 'https').
+embeds[0].image.url: Scheme "url for image" is not supported. Scheme must be one of ('http', 'https').
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Invalid Form Body
+embed.image.url: Scheme "gif" is not supported. Scheme must be one of ('http', 'https').
+embeds[0].image.url: Scheme "gif" is not supported. Scheme must be one of ('http', 'https').
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - emotes is not defined
+[ERROR] - emotes is not defined
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Cannot find module 'cool-pics'
+Require stack:
+- C:\Users\Zaim\Downloads\Interactions\commands\interactions\wink.js
+- C:\Users\Zaim\Downloads\Interactions\node_modules\djs-commands\CommandHandler.js
+- C:\Users\Zaim\Downloads\Interactions\node_modules\djs-commands\index.js
+- C:\Users\Zaim\Downloads\Interactions\index.js
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[ERROR] - tickleEmbed is not defined
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - The bot is online!
+[ERROR] - invalid json response body at https://shiro.gg/api/images/blush reason: Unexpected token < in JSON at position 0
+[INFO] - The bot is online!
+[ERROR] - Invalid Form Body
+embed.image.url: Could not interpret "{}" as string.
+embeds[0].image.url: Could not interpret "{}" as string.
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[ERROR] - Invalid Form Body
+embed.image.url: Could not interpret "{}" as string.
+embeds[0].image.url: Could not interpret "{}" as string.
+[INFO] - The bot is online!
+[ERROR] - kakashi is not defined
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - cuddleEmbed is not defined
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Cannot send an empty message
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - Assignment to constant variable.
+[ERROR] - Assignment to constant variable.
+[ERROR] - Assignment to constant variable.
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[INFO] - The bot is online!
+[ERROR] - chalk.blue is not a function
+[INFO] - [34mThe bot is ready![39m
+[ERROR] - message.slap is not a function
+[ERROR] - message.slap is not a function
+[ERROR] - Cannot read properties of undefined (reading 'id')
+[INFO] - [34mThe bot is ready![39m

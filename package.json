@@ -1,0 +1,33 @@
+{
+  "name": "gucci-banana-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anime-actions": "^1.0.6",
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.2",
+    "cool-pics": "^1.0.1",
+    "cpu-stat": "^2.0.1",
+    "discord-emotes": "^1.5.4",
+    "discord-holo-api": "^1.4.4",
+    "discord.js": "^12.5.3",
+    "djs-commands": "^1.2.2",
+    "emoji-random": "^0.1.2",
+    "express": "^4.17.1",
+    "make-random": "^1.2.1",
+    "memejs": "^1.2.3",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "os": "^0.1.1",
+    "twemoji-parser": "^13.0.0",
+    "urban": "^0.3.2",
+    "winston": "^3.3.3"
+  }
+}
