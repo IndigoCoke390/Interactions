@@ -2,6 +2,13 @@
 This is a bot to interact with people and make your conversations more interesting
 
 
+HOW TO INSTALL
+
+1. replace the token in index.js
+2. start the bot
+3. enjoy
+
+
 commands you can do
 
 ![help command](https://i.imgur.com/5ibvX4G.png)  
